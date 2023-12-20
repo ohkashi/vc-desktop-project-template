@@ -1,0 +1,1 @@
+# vc-desktop-project-template
